@@ -1076,6 +1076,1293 @@ export const trafficLawData = {
       question: "Các dự án hoặc giấy phép được cấp trước khi Luật 2024 có hiệu lực thì xử lý thế nào?",
       answer: "Đây là quy định chuyển tiếp: Các dự án đang thực hiện hoặc giấy phép kinh doanh còn hạn được tiếp tục áp dụng cho đến khi hết thời hạn hoặc cần phải điều chỉnh theo quy định mới.",
       regulationId: "gt-086"
-    }
+    },
+    {
+    question: "Hiệu lệnh của cảnh sát giao thông có bắt buộc phải chấp hành hơn đèn tín hiệu không?",
+    answer: "Theo quy định về báo hiệu đường bộ, hiệu lệnh của người điều khiển giao thông có hiệu lực cao hơn đèn tín hiệu, biển báo và vạch kẻ đường.",
+    regulationId: "gt-087"
+    },
+    {
+    question: "Khi đèn giao thông bị hỏng thì người tham gia giao thông phải làm theo gì?",
+    answer: "Khi đèn giao thông không hoạt động, người tham gia giao thông phải chấp hành hiệu lệnh của người điều khiển giao thông hoặc biển báo, vạch kẻ đường.",
+    regulationId: "gt-088"
+  },
+  {
+    question: "Vạch dừng xe có ý nghĩa gì khi đến nút giao?",
+    answer: "Vạch dừng xe là vị trí người điều khiển phương tiện phải dừng lại khi có tín hiệu đèn đỏ hoặc hiệu lệnh dừng.",
+    regulationId: "gt-089"
+  },
+  {
+    question: "Biển báo tạm thời khi sửa đường có giá trị pháp lý không?",
+    answer: "Biển báo tạm thời được lắp đặt trong thời gian thi công có giá trị pháp lý như biển báo cố định.",
+    regulationId: "gt-090"
+  },
+  {
+    question: "Có được che khuất biển báo giao thông không?",
+    answer: "Nghiêm cấm các hành vi che khuất, làm mờ hoặc làm sai lệch tác dụng của biển báo giao thông.",
+    regulationId: "gt-091"
+  },
+  {
+    question: "Ai có thẩm quyền quyết định phân làn giao thông trên đường bộ?",
+    answer: "Cơ quan quản lý đường bộ có thẩm quyền tổ chức và quyết định việc phân làn giao thông.",
+    regulationId: "gt-092"
+  },
+  {
+    question: "Có thể cấm xe tải lưu thông theo khung giờ trong đô thị không?",
+    answer: "Cơ quan tổ chức giao thông được phép quy định thời gian lưu thông cho từng loại phương tiện nhằm giảm ùn tắc.",
+    regulationId: "gt-093"
+  },
+  {
+    question: "Đường một chiều được tổ chức giao thông như thế nào?",
+    answer: "Đường một chiều chỉ cho phép phương tiện lưu thông theo hướng được chỉ dẫn bằng biển báo và vạch kẻ đường.",
+    regulationId: "gt-094"
+  },
+  {
+    question: "Khi xảy ra ùn tắc giao thông, ai chịu trách nhiệm điều tiết?",
+    answer: "Lực lượng cảnh sát giao thông và cơ quan chức năng chịu trách nhiệm điều tiết khi xảy ra ùn tắc.",
+    regulationId: "gt-095"
+  },
+  {
+    question: "Có thể thay đổi tổ chức giao thông tạm thời khi có sự kiện lớn không?",
+    answer: "Được phép tổ chức giao thông tạm thời để phục vụ sự kiện, lễ hội hoặc tình huống đặc biệt.",
+    regulationId: "gt-096"
+  },
+  {
+    question: "Công tác bảo trì đường bộ bao gồm những hoạt động nào?",
+    answer: "Bảo trì bao gồm kiểm tra, bảo dưỡng thường xuyên, sửa chữa định kỳ và sửa chữa đột xuất.",
+    regulationId: "gt-097"
+  },
+  {
+    question: "Đơn vị nào chịu trách nhiệm bảo trì quốc lộ?",
+    answer: "Cơ quan được Bộ Giao thông vận tải giao quản lý chịu trách nhiệm bảo trì quốc lộ.",
+    regulationId: "gt-098"
+  },
+  {
+    question: "Đường bộ hư hỏng gây tai nạn thì đơn vị quản lý có trách nhiệm không?",
+    answer: "Đơn vị quản lý đường bộ phải chịu trách nhiệm nếu không kịp thời sửa chữa, khắc phục hư hỏng.",
+    regulationId: "gt-099"
+  },
+  {
+    question: "Bảo trì đường bộ có phải thực hiện định kỳ không?",
+    answer: "Bảo trì đường bộ phải được thực hiện định kỳ theo kế hoạch được phê duyệt.",
+    regulationId: "gt-100"
+  },
+  {
+    question: "Có được tự ý sửa chữa mặt đường trước nhà không?",
+    answer: "Không được tự ý sửa chữa mặt đường nếu không có sự cho phép của cơ quan quản lý đường bộ.",
+    regulationId: "gt-101"
+  },
+  {
+    question: "Thi công trên đường bộ đang khai thác có cần giấy phép không?",
+    answer: "Mọi hoạt động thi công trên đường bộ đang khai thác phải có giấy phép của cơ quan có thẩm quyền.",
+    regulationId: "gt-102"
+  },
+  {
+    question: "Khi thi công đường bộ có bắt buộc rào chắn không?",
+    answer: "Khi thi công phải bố trí đầy đủ rào chắn, biển báo và biện pháp bảo đảm an toàn giao thông.",
+    regulationId: "gt-103"
+  },
+  {
+    question: "Thi công ban đêm trên đường bộ có được phép không?",
+    answer: "Được phép thi công ban đêm nếu có phương án bảo đảm an toàn giao thông và được chấp thuận.",
+    regulationId: "gt-104"
+  },
+  {
+    question: "Ai chịu trách nhiệm nếu thi công gây tai nạn giao thông?",
+    answer: "Đơn vị thi công phải chịu trách nhiệm nếu không bảo đảm an toàn trong quá trình thi công.",
+    regulationId: "gt-105"
+  },
+  {
+    question: "Có phải hoàn trả mặt đường sau khi thi công không?",
+    answer: "Sau khi thi công, đơn vị thi công phải hoàn trả mặt đường đúng hiện trạng ban đầu.",
+    regulationId: "gt-106"
+  },
+  {
+    question: "Xe chở hàng quá tải có được phép lưu thông không?",
+    answer: "Xe quá tải chỉ được lưu thông khi có giấy phép đặc biệt của cơ quan có thẩm quyền.",
+    regulationId: "gt-107"
+  },
+  {
+    question: "Xe quá khổ giới hạn phải tuân thủ điều kiện gì?",
+    answer: "Xe quá khổ giới hạn phải có giấy phép lưu hành và tuân thủ lộ trình quy định.",
+    regulationId: "gt-108"
+  },
+  {
+    question: "Ai có quyền kiểm tra tải trọng xe trên đường bộ?",
+    answer: "Lực lượng thanh tra giao thông và cảnh sát giao thông có quyền kiểm tra tải trọng xe.",
+    regulationId: "gt-109"
+  },
+  {
+    question: "Kết quả cân tự động có được dùng để xử phạt không?",
+    answer: "Kết quả từ hệ thống cân tự động có thể được sử dụng làm căn cứ xử phạt vi phạm.",
+    regulationId: "gt-110"
+  },
+  {
+    question: "Chủ hàng có bị xử phạt nếu xếp hàng quá tải không?",
+    answer: "Chủ hàng cũng bị xử phạt nếu có hành vi xếp hàng vượt quá tải trọng cho phép.",
+    regulationId: "gt-111"
+  },
+  {
+    question: "Điểm đen tai nạn giao thông được xử lý bằng biện pháp nào?",
+    answer: "Cơ quan quản lý phải đánh giá nguyên nhân và áp dụng biện pháp kỹ thuật để xử lý điểm đen.",
+    regulationId: "gt-112"
+  },
+  {
+    question: "Điểm tiềm ẩn tai nạn giao thông có phải theo dõi không?",
+    answer: "Điểm tiềm ẩn tai nạn phải được theo dõi và xử lý phòng ngừa kịp thời.",
+    regulationId: "gt-113"
+  },
+  {
+    question: "Có bắt buộc lắp camera giám sát giao thông tại các tuyến trọng điểm không?",
+    answer: "Nhà nước khuyến khích và từng bước bắt buộc lắp đặt hệ thống giám sát giao thông tại các tuyến trọng điểm.",
+    regulationId: "gt-114"
+  },
+  {
+    question: "Thông tin cảnh báo giao thông có được cung cấp cho người dân không?",
+    answer: "Thông tin về tình trạng giao thông phải được cung cấp kịp thời cho người tham gia giao thông.",
+    regulationId: "gt-115"
+  },
+  {
+    question: "Người dân có trách nhiệm thông báo khi phát hiện nguy cơ mất an toàn giao thông không?",
+    answer: "Mọi cá nhân có trách nhiệm thông báo cho cơ quan chức năng khi phát hiện nguy cơ mất an toàn giao thông.",
+    regulationId: "gt-116"
+  },
+  {
+    question: "Có được đặt vật cản trên đường để giữ chỗ đỗ xe không?",
+    answer: "Nghiêm cấm việc tự ý đặt vật cản trên đường gây cản trở giao thông.",
+    regulationId: "gt-117"
+  },
+  {
+    question: "Tổ chức giao thông có được điều chỉnh theo thời tiết xấu không?",
+    answer: "Cơ quan chức năng được phép điều chỉnh tổ chức giao thông khi có mưa bão, sương mù hoặc thiên tai.",
+    regulationId: "gt-118"
+  },
+  {
+    question: "Khi có tai nạn giao thông nghiêm trọng, đường có thể bị phong tỏa không?",
+    answer: "Cơ quan chức năng có quyền tạm thời phong tỏa đường để xử lý tai nạn và bảo đảm an toàn.",
+    regulationId: "gt-119"
+  },
+  {
+    question: "Có thể phân luồng giao thông từ xa khi xảy ra sự cố không?",
+    answer: "Việc phân luồng từ xa được áp dụng nhằm giảm ùn tắc và bảo đảm an toàn giao thông.",
+    regulationId: "gt-120"
+  },
+  {
+    question: "Cơ quan nào chịu trách nhiệm khôi phục giao thông sau sự cố?",
+    answer: "Cơ quan quản lý đường bộ phối hợp với lực lượng chức năng để khôi phục giao thông.",
+    regulationId: "gt-121"
+  },
+  {
+    question: "Người tham gia giao thông có phải tuân thủ hướng dẫn tạm thời không?",
+    answer: "Người tham gia giao thông phải chấp hành hướng dẫn, phân luồng tạm thời của cơ quan chức năng.",
+    regulationId: "gt-122"
+  },
+  {
+    question: "Có được sử dụng thiết bị cá nhân để điều tiết giao thông không?",
+    answer: "Chỉ người có thẩm quyền mới được phép điều tiết giao thông bằng hiệu lệnh.",
+    regulationId: "gt-123"
+  },
+  {
+    question: "Hệ thống báo hiệu giao thông có phải được bảo trì không?",
+    answer: "Hệ thống báo hiệu giao thông phải được kiểm tra và bảo trì thường xuyên.",
+    regulationId: "gt-124"
+  },
+  {
+    question: "Biển báo bị hư hỏng có cần thay thế ngay không?",
+    answer: "Biển báo hư hỏng phải được sửa chữa hoặc thay thế kịp thời để bảo đảm an toàn.",
+    regulationId: "gt-125"
+  },
+  {
+    question: "Ai chịu trách nhiệm quản lý báo hiệu đường bộ trên địa bàn tỉnh?",
+    answer: "UBND cấp tỉnh chịu trách nhiệm quản lý hệ thống báo hiệu trên các tuyến đường địa phương.",
+    regulationId: "gt-126"
+  },
+
+  {
+    question: "Có được thay đổi vị trí biển báo khi chưa được phép không?",
+    answer: "Nghiêm cấm việc tự ý thay đổi, di dời biển báo giao thông.",
+    regulationId: "gt-127"
+  },
+  {
+    question: "Tổ chức giao thông có được thử nghiệm mô hình mới không?",
+    answer: "Nhà nước cho phép thí điểm các mô hình tổ chức giao thông mới khi cần thiết.",
+    regulationId: "gt-128"
+  },
+  {
+    question: "Công nghệ thông minh có được ứng dụng trong quản lý giao thông không?",
+    answer: "Luật khuyến khích ứng dụng công nghệ thông minh trong quản lý và điều hành giao thông.",
+    regulationId: "gt-129"
+  },
+  {
+    question: "Người dân có quyền phản ánh bất cập về tổ chức giao thông không?",
+    answer: "Người dân có quyền phản ánh, kiến nghị về bất cập giao thông với cơ quan chức năng.",
+    regulationId: "gt-130"
+  },
+  {
+    question: "Cơ quan chức năng có trách nhiệm tiếp nhận phản ánh giao thông không?",
+    answer: "Cơ quan quản lý giao thông có trách nhiệm tiếp nhận và xử lý phản ánh của người dân.",
+    regulationId: "gt-131"
+  },
+  {
+    question: "Tổ chức giao thông có thể thay đổi lâu dài sau thí điểm không?",
+    answer: "Sau thời gian thí điểm, nếu hiệu quả, phương án tổ chức giao thông có thể được áp dụng chính thức.",
+    regulationId: "gt-132"
+  },
+  {
+    question: "Việc kiểm soát tải trọng xe có nhằm bảo vệ kết cấu hạ tầng không?",
+    answer: "Kiểm soát tải trọng xe nhằm bảo vệ kết cấu hạ tầng và bảo đảm an toàn giao thông.",
+    regulationId: "gt-133"
+  },
+  {
+    question: "Xe quá tải gây hư hỏng đường có phải bồi thường không?",
+    answer: "Tổ chức, cá nhân gây hư hỏng công trình đường bộ phải bồi thường theo quy định.",
+    regulationId: "gt-134"
+  },
+  {
+    question: "Việc bảo đảm an toàn giao thông khi sửa chữa cầu có bắt buộc không?",
+    answer: "Khi sửa chữa cầu, đơn vị thi công phải có phương án bảo đảm an toàn giao thông.",
+    regulationId: "gt-135"
+  },
+  {
+    question: "Có thể tạm dừng lưu thông để sửa chữa khẩn cấp không?",
+    answer: "Trong trường hợp khẩn cấp, cơ quan quản lý có thể tạm dừng lưu thông để bảo đảm an toàn.",
+    regulationId: "gt-136"
+  },
+  {
+    question: "Phí sử dụng đường bộ được thu nhằm mục đích gì?",
+    answer: "Phí sử dụng đường bộ nhằm bù đắp chi phí quản lý, vận hành và bảo trì kết cấu hạ tầng đường bộ.",
+    regulationId: "gt-137"
+  },
+  {
+    question: "Phí sử dụng đường bộ có phải là khoản thu bắt buộc không?",
+    answer: "Theo quy định, người sử dụng đường bộ phải nộp phí theo hình thức và mức thu do Nhà nước quy định.",
+    regulationId: "gt-138"
+  },
+  {
+    question: "Phí sử dụng đường bộ được quản lý và sử dụng như thế nào?",
+    answer: "Phí được nộp vào ngân sách nhà nước và ưu tiên sử dụng cho công tác quản lý, bảo trì đường bộ.",
+    regulationId: "gt-139"
+  },
+  {
+    question: "Người không sử dụng đường bộ có phải nộp phí không?",
+    answer: "Chỉ các đối tượng sử dụng đường bộ theo quy định mới thuộc diện phải nộp phí.",
+    regulationId: "gt-140"
+  },
+  {
+    question: "Phí sử dụng đường bộ có áp dụng cho xe điện không?",
+    answer: "Xe điện vẫn thuộc đối tượng tham gia giao thông đường bộ và phải thực hiện nghĩa vụ phí theo quy định hiện hành.",
+    regulationId: "gt-141"
+  },
+
+  {
+    question: "Thu phí điện tử không dừng (ETC) là gì?",
+    answer: "ETC là hình thức thu phí tự động, không cần dừng xe, thông qua thiết bị gắn trên phương tiện.",
+    regulationId: "gt-142"
+  },
+  {
+    question: "Thu phí ETC có bắt buộc trên đường cao tốc không?",
+    answer: "Theo luật, việc thu phí trên đường cao tốc phải thực hiện bằng hình thức điện tử không dừng.",
+    regulationId: "gt-143"
+  },
+  {
+    question: "Chủ xe không gắn thẻ ETC có được đi vào cao tốc không?",
+    answer: "Phương tiện không đủ điều kiện ETC có thể bị từ chối phục vụ trên các tuyến cao tốc thu phí điện tử.",
+    regulationId: "gt-144"
+  },
+  {
+    question: "Tài khoản giao thông dùng trong ETC là gì?",
+    answer: "Tài khoản giao thông là tài khoản thanh toán điện tử gắn với phương tiện để thực hiện thu phí tự động.",
+    regulationId: "gt-145"
+  },
+  {
+    question: "Tài khoản ETC không đủ tiền thì xe có được qua trạm không?",
+    answer: "Khi tài khoản không đủ tiền, hệ thống có thể từ chối giao dịch và phương tiện không được qua trạm.",
+    regulationId: "gt-146"
+  },
+
+  {
+    question: "Trạm thu phí đường bộ phải đáp ứng yêu cầu gì?",
+    answer: "Trạm thu phí phải đúng vị trí quy hoạch, bảo đảm an toàn giao thông và vận hành minh bạch.",
+    regulationId: "gt-147"
+  },
+  {
+    question: "Có được đặt trạm thu phí ngoài quy hoạch không?",
+    answer: "Không. Việc đặt trạm thu phí phải phù hợp quy hoạch và được cơ quan có thẩm quyền quyết định.",
+    regulationId: "gt-148"
+  },
+  {
+    question: "Khoảng cách giữa các trạm thu phí có bị giới hạn không?",
+    answer: "Khoảng cách giữa các trạm thu phí phải tuân thủ quy định của Chính phủ.",
+    regulationId: "gt-149"
+  },
+  {
+    question: "Người dân có quyền giám sát hoạt động thu phí không?",
+    answer: "Người dân và cơ quan chức năng có quyền giám sát tính minh bạch của hoạt động thu phí.",
+    regulationId: "gt-150"
+  },
+  {
+    question: "Dữ liệu thu phí ETC có được lưu trữ không?",
+    answer: "Dữ liệu thu phí ETC phải được lưu trữ, bảo mật và cung cấp cho cơ quan quản lý khi cần thiết.",
+    regulationId: "gt-151"
+  },
+
+  {
+    question: "Đường cao tốc chỉ dành cho loại phương tiện nào?",
+    answer: "Đường cao tốc chỉ dành cho xe cơ giới đủ điều kiện kỹ thuật và không dành cho xe thô sơ, xe máy.",
+    regulationId: "gt-152"
+  },
+  {
+    question: "Đường cao tốc có được giao cắt cùng mức với đường khác không?",
+    answer: "Đường cao tốc không giao cắt cùng mức với các tuyến đường khác.",
+    regulationId: "gt-153"
+  },
+  {
+    question: "Xe đi vào cao tốc có được dừng đỗ tùy ý không?",
+    answer: "Trên cao tốc, xe chỉ được dừng đỗ tại nơi quy định như làn dừng khẩn cấp hoặc trạm dừng nghỉ.",
+    regulationId: "gt-154"
+  },
+  {
+    question: "Làn dừng xe khẩn cấp trên cao tốc dùng trong trường hợp nào?",
+    answer: "Làn dừng khẩn cấp chỉ được sử dụng khi xe gặp sự cố hoặc tình huống khẩn cấp.",
+    regulationId: "gt-155"
+  },
+  {
+    question: "Xe gặp tai nạn trên cao tốc phải xử lý ra sao?",
+    answer: "Người lái xe phải nhanh chóng đưa xe vào làn khẩn cấp và báo cho lực lượng cứu hộ.",
+    regulationId: "gt-156"
+  },
+
+  {
+    question: "Hệ thống ITS trên đường cao tốc dùng để làm gì?",
+    answer: "ITS giúp giám sát, điều hành giao thông và cung cấp thông tin theo thời gian thực.",
+    regulationId: "gt-157"
+  },
+  {
+    question: "Camera giám sát trên cao tốc có được dùng để xử phạt không?",
+    answer: "Dữ liệu từ camera giám sát có thể được sử dụng làm căn cứ xử phạt vi phạm.",
+    regulationId: "gt-158"
+  },
+  {
+    question: "Bảng thông tin điện tử trên cao tốc có bắt buộc tuân theo không?",
+    answer: "Người tham gia giao thông phải chấp hành hướng dẫn hiển thị trên bảng thông tin điện tử.",
+    regulationId: "gt-159"
+  },
+  {
+    question: "ITS có hỗ trợ phát hiện sự cố giao thông không?",
+    answer: "Hệ thống ITS hỗ trợ phát hiện sớm sự cố, tai nạn và ùn tắc trên cao tốc.",
+    regulationId: "gt-160"
+  },
+  {
+    question: "Thông tin ITS có được chia sẻ cho người dân không?",
+    answer: "Thông tin giao thông từ ITS được cung cấp cho người dân thông qua các kênh chính thức.",
+    regulationId: "gt-161"
+  },
+
+  {
+    question: "Đơn vị nào chịu trách nhiệm vận hành đường cao tốc?",
+    answer: "Đơn vị được giao quản lý hoặc nhà đầu tư chịu trách nhiệm vận hành đường cao tốc.",
+    regulationId: "gt-162"
+  },
+  {
+    question: "Đường cao tốc có phải vận hành 24/24 giờ không?",
+    answer: "Việc vận hành đường cao tốc được thực hiện liên tục để bảo đảm giao thông thông suốt.",
+    regulationId: "gt-163"
+  },
+  {
+    question: "Đơn vị quản lý cao tốc có trách nhiệm cứu hộ không?",
+    answer: "Đơn vị quản lý phải bố trí lực lượng cứu hộ, cứu nạn sẵn sàng khi có sự cố.",
+    regulationId: "gt-164"
+  },
+  {
+    question: "Khi xảy ra thiên tai, cao tốc có thể tạm đóng không?",
+    answer: "Trong trường hợp thiên tai hoặc mất an toàn nghiêm trọng, cao tốc có thể tạm dừng khai thác.",
+    regulationId: "gt-165"
+  },
+  {
+    question: "Việc tạm dừng khai thác cao tốc do ai quyết định?",
+    answer: "Cơ quan có thẩm quyền hoặc đơn vị quản lý quyết định tạm dừng khai thác khi cần thiết.",
+    regulationId: "gt-166"
+  },
+
+  {
+    question: "Người tham gia giao thông có được quay đầu xe trên cao tốc không?",
+    answer: "Nghiêm cấm hành vi quay đầu xe, lùi xe trên đường cao tốc.",
+    regulationId: "gt-167"
+  },
+  {
+    question: "Xe mô tô có được đi vào cao tốc không?",
+    answer: "Xe mô tô, xe gắn máy không được phép lưu thông trên đường cao tốc.",
+    regulationId: "gt-168"
+  },
+  {
+    question: "Xe máy điện có được đi vào cao tốc không?",
+    answer: "Xe máy điện không thuộc đối tượng được phép lưu thông trên đường cao tốc.",
+    regulationId: "gt-169"
+  },
+  {
+    question: "Xe kéo, xe thô sơ có được đi vào cao tốc không?",
+    answer: "Xe thô sơ và xe kéo không được phép tham gia giao thông trên cao tốc.",
+    regulationId: "gt-170"
+  },
+  {
+    question: "Xe chở hàng nguy hiểm có được lưu thông trên cao tốc không?",
+    answer: "Xe chở hàng nguy hiểm chỉ được lưu thông trên cao tốc khi đáp ứng đầy đủ điều kiện an toàn.",
+    regulationId: "gt-171"
+  },
+
+  {
+    question: "Trạm dừng nghỉ cao tốc có bắt buộc không?",
+    answer: "Trạm dừng nghỉ là hạng mục bắt buộc trên tuyến cao tốc theo quy hoạch.",
+    regulationId: "gt-172"
+  },
+  {
+    question: "Khoảng cách giữa các trạm dừng nghỉ cao tốc được quy định thế nào?",
+    answer: "Khoảng cách trạm dừng nghỉ phải đáp ứng quy chuẩn kỹ thuật và nhu cầu người tham gia giao thông.",
+    regulationId: "gt-173"
+  },
+  {
+    question: "Trạm dừng nghỉ cao tốc có phải cung cấp trạm sạc điện không?",
+    answer: "Luật khuyến khích bố trí trạm sạc điện tại trạm dừng nghỉ cao tốc.",
+    regulationId: "gt-174"
+  },
+  {
+    question: "Trạm dừng nghỉ có được kinh doanh dịch vụ không?",
+    answer: "Trạm dừng nghỉ được phép cung cấp các dịch vụ phục vụ người tham gia giao thông.",
+    regulationId: "gt-175"
+  },
+  {
+    question: "Ai chịu trách nhiệm quản lý trạm dừng nghỉ trên cao tốc?",
+    answer: "Đơn vị quản lý đường cao tốc hoặc nhà đầu tư chịu trách nhiệm quản lý trạm dừng nghỉ.",
+    regulationId: "gt-176"
+  },
+
+  {
+    question: "Người tham gia giao thông có quyền phản ánh về thu phí cao tốc không?",
+    answer: "Người dân có quyền phản ánh, kiến nghị về hoạt động thu phí cao tốc.",
+    regulationId: "gt-177"
+  },
+  {
+    question: "Cơ quan quản lý có trách nhiệm công khai mức thu phí không?",
+    answer: "Mức thu phí phải được công khai, minh bạch theo quy định pháp luật.",
+    regulationId: "gt-178"
+  },
+  {
+    question: "Nhà đầu tư cao tốc có được điều chỉnh mức phí không?",
+    answer: "Việc điều chỉnh mức phí phải được cơ quan có thẩm quyền chấp thuận.",
+    regulationId: "gt-179"
+  },
+  {
+    question: "Thời gian thu phí hoàn vốn cao tốc có giới hạn không?",
+    answer: "Thời gian thu phí được xác định trong phương án tài chính đã được phê duyệt.",
+    regulationId: "gt-180"
+  },
+  {
+    question: "Sau khi hết thời gian thu phí, cao tốc thuộc quản lý của ai?",
+    answer: "Sau khi hoàn vốn, công trình được bàn giao cho Nhà nước quản lý theo quy định.",
+    regulationId: "gt-181"
+  },
+
+  {
+    question: "Đường cao tốc có phải kiểm tra an toàn định kỳ không?",
+    answer: "Đường cao tốc phải được kiểm tra, đánh giá an toàn định kỳ trong quá trình khai thác.",
+    regulationId: "gt-182"
+  },
+  {
+    question: "Có thể nâng cấp ITS khi đang khai thác cao tốc không?",
+    answer: "Việc nâng cấp hệ thống ITS được phép thực hiện trong quá trình khai thác nếu bảo đảm an toàn.",
+    regulationId: "gt-183"
+  },
+  {
+    question: "Dữ liệu giao thông cao tốc có được dùng cho quản lý nhà nước không?",
+    answer: "Dữ liệu thu thập trong quá trình khai thác cao tốc phục vụ công tác quản lý nhà nước.",
+    regulationId: "gt-184"
+  },
+  {
+    question: "Người lái xe có nghĩa vụ tuân thủ tốc độ tối đa trên cao tốc không?",
+    answer: "Người lái xe phải tuân thủ tốc độ tối đa và tối thiểu quy định trên từng đoạn cao tốc.",
+    regulationId: "gt-185"
+  },
+  {
+    question: "Có thể tạm ngừng thu phí khi hệ thống ETC gặp sự cố không?",
+    answer: "Trong trường hợp hệ thống ETC gặp sự cố nghiêm trọng, cơ quan quản lý có thể tạm ngừng thu phí.",
+    regulationId: "gt-186"
+  },
+  {
+    question: "Kinh doanh vận tải đường bộ là gì?",
+    answer: "Kinh doanh vận tải đường bộ là hoạt động sử dụng phương tiện để vận chuyển hành khách hoặc hàng hóa nhằm mục đích sinh lợi.",
+    regulationId: "gt-187"
+  },
+  {
+    question: "Muốn kinh doanh vận tải hành khách bằng ô tô có cần giấy phép không?",
+    answer: "Theo luật, đơn vị kinh doanh vận tải hành khách bằng ô tô phải có giấy phép kinh doanh vận tải.",
+    regulationId: "gt-188"
+  },
+  {
+    question: "Cá nhân có được tự kinh doanh vận tải hành khách không?",
+    answer: "Cá nhân chỉ được kinh doanh vận tải khi đáp ứng đầy đủ điều kiện và được cấp phép theo quy định.",
+    regulationId: "gt-189"
+  },
+  {
+    question: "Xe hợp đồng có được đón khách dọc đường không?",
+    answer: "Xe hợp đồng không được đón, trả khách dọc đường như xe tuyến cố định.",
+    regulationId: "gt-190"
+  },
+  {
+    question: "Xe du lịch có được bán vé lẻ cho từng hành khách không?",
+    answer: "Xe du lịch chỉ được vận chuyển theo hợp đồng trọn gói, không được bán vé lẻ.",
+    regulationId: "gt-191"
+  },
+
+  {
+    question: "Xe tuyến cố định là loại hình vận tải như thế nào?",
+    answer: "Xe tuyến cố định là loại hình vận tải hành khách theo tuyến, lịch trình và điểm dừng được công bố.",
+    regulationId: "gt-192"
+  },
+  {
+    question: "Có được tự ý thay đổi lộ trình xe tuyến cố định không?",
+    answer: "Đơn vị vận tải không được tự ý thay đổi lộ trình đã đăng ký.",
+    regulationId: "gt-193"
+  },
+  {
+    question: "Xe buýt có được dừng đón khách ngoài điểm dừng không?",
+    answer: "Xe buýt chỉ được dừng, đón trả khách tại các điểm dừng, bến đỗ theo quy định.",
+    regulationId: "gt-194"
+  },
+  {
+    question: "Xe buýt có phải ưu tiên khi tham gia giao thông không?",
+    answer: "Xe buýt được ưu tiên theo quy định tại một số làn đường và khu vực nhất định.",
+    regulationId: "gt-195"
+  },
+  {
+    question: "Xe buýt trợ giá do ai quản lý?",
+    answer: "Xe buýt trợ giá do cơ quan nhà nước có thẩm quyền tổ chức và quản lý.",
+    regulationId: "gt-196"
+  },
+
+  {
+    question: "Xe taxi có bắt buộc phải gắn hộp đèn không?",
+    answer: "Xe taxi phải có dấu hiệu nhận diện theo quy định, bao gồm hộp đèn hoặc hình thức nhận diện hợp pháp khác.",
+    regulationId: "gt-197"
+  },
+  {
+    question: "Taxi công nghệ có được coi là taxi không?",
+    answer: "Taxi sử dụng phần mềm kết nối vẫn thuộc loại hình taxi theo quy định pháp luật.",
+    regulationId: "gt-198"
+  },
+  {
+    question: "Xe taxi có được thu tiền cao hơn giá niêm yết không?",
+    answer: "Xe taxi phải thu tiền đúng giá đã kê khai và niêm yết.",
+    regulationId: "gt-199"
+  },
+  {
+    question: "Taxi có được từ chối chở khách không?",
+    answer: "Taxi không được từ chối chở khách trái quy định, trừ các trường hợp luật cho phép.",
+    regulationId: "gt-200"
+  },
+  {
+    question: "Lái xe taxi có phải bật đồng hồ tính tiền không?",
+    answer: "Lái xe taxi phải sử dụng thiết bị tính tiền hợp pháp khi vận chuyển hành khách.",
+    regulationId: "gt-201"
+  },
+
+  {
+    question: "Kinh doanh vận tải hàng hóa có cần giấy phép không?",
+    answer: "Đơn vị kinh doanh vận tải hàng hóa bằng ô tô phải có giấy phép theo quy định.",
+    regulationId: "gt-202"
+  },
+  {
+    question: "Xe chở hàng có cần phù hiệu vận tải không?",
+    answer: "Xe kinh doanh vận tải hàng hóa phải được cấp và gắn phù hiệu theo quy định.",
+    regulationId: "gt-203"
+  },
+  {
+    question: "Xe tải tự dùng của doanh nghiệp có cần giấy phép kinh doanh không?",
+    answer: "Xe vận tải nội bộ không vì mục đích sinh lợi có thể không thuộc diện kinh doanh vận tải.",
+    regulationId: "gt-204"
+  },
+  {
+    question: "Xe tải chở hàng quá tải bị xử lý thế nào?",
+    answer: "Xe chở hàng quá tải trọng cho phép sẽ bị xử phạt theo quy định pháp luật.",
+    regulationId: "gt-205"
+  },
+  {
+    question: "Ai chịu trách nhiệm về tải trọng hàng hóa trên xe?",
+    answer: "Đơn vị vận tải và người lái xe chịu trách nhiệm về tải trọng hàng hóa.",
+    regulationId: "gt-206"
+  },
+
+  {
+    question: "Xe chở hàng nguy hiểm cần điều kiện gì?",
+    answer: "Xe chở hàng nguy hiểm phải đáp ứng điều kiện an toàn và có giấy phép theo quy định.",
+    regulationId: "gt-207"
+  },
+  {
+    question: "Lái xe chở hàng nguy hiểm có cần chứng chỉ riêng không?",
+    answer: "Lái xe chở hàng nguy hiểm phải được đào tạo và cấp chứng chỉ chuyên môn.",
+    regulationId: "gt-208"
+  },
+  {
+    question: "Xe chở hàng nguy hiểm có được đi vào khu đông dân cư không?",
+    answer: "Việc lưu thông hàng nguy hiểm qua khu đông dân cư phải tuân thủ quy định riêng.",
+    regulationId: "gt-209"
+  },
+  {
+    question: "Có được dừng xe chở hàng nguy hiểm tùy tiện không?",
+    answer: "Xe chở hàng nguy hiểm chỉ được dừng đỗ tại nơi cho phép.",
+    regulationId: "gt-210"
+  },
+  {
+    question: "Khi xảy ra sự cố hàng nguy hiểm, phải xử lý ra sao?",
+    answer: "Phải thực hiện biện pháp khẩn cấp và thông báo cho cơ quan chức năng.",
+    regulationId: "gt-211"
+  },
+
+  {
+    question: "Lái xe kinh doanh vận tải có phải ký hợp đồng lao động không?",
+    answer: "Lái xe kinh doanh vận tải phải có hợp đồng lao động hoặc hợp đồng hợp tác theo quy định.",
+    regulationId: "gt-212"
+  },
+  {
+    question: "Thời gian lái xe liên tục tối đa là bao lâu?",
+    answer: "Thời gian lái xe liên tục phải tuân thủ giới hạn nhằm bảo đảm an toàn giao thông.",
+    regulationId: "gt-213"
+  },
+  {
+    question: "Lái xe kinh doanh vận tải có phải khám sức khỏe định kỳ không?",
+    answer: "Lái xe kinh doanh vận tải phải khám sức khỏe định kỳ theo quy định.",
+    regulationId: "gt-214"
+  },
+  {
+    question: "Có bắt buộc lắp camera trên xe kinh doanh vận tải không?",
+    answer: "Một số loại xe kinh doanh vận tải bắt buộc phải lắp camera theo quy định.",
+    regulationId: "gt-215"
+  },
+  {
+    question: "Dữ liệu camera trên xe kinh doanh vận tải được dùng vào việc gì?",
+    answer: "Dữ liệu camera phục vụ quản lý nhà nước và bảo đảm an toàn giao thông.",
+    regulationId: "gt-216"
+  },
+
+  {
+    question: "Đơn vị kinh doanh vận tải có trách nhiệm bảo hiểm cho hành khách không?",
+    answer: "Đơn vị vận tải phải mua bảo hiểm trách nhiệm dân sự cho hành khách.",
+    regulationId: "gt-217"
+  },
+  {
+    question: "Hành khách có quyền gì khi sử dụng dịch vụ vận tải?",
+    answer: "Hành khách có quyền được bảo đảm an toàn, đúng giá và đúng lộ trình.",
+    regulationId: "gt-218"
+  },
+  {
+    question: "Hành khách có nghĩa vụ gì khi đi xe khách?",
+    answer: "Hành khách phải chấp hành nội quy và hướng dẫn của lái xe, phụ xe.",
+    regulationId: "gt-219"
+  },
+  {
+    question: "Có được mang hàng nguy hiểm lên xe khách không?",
+    answer: "Hành khách không được mang hàng nguy hiểm lên xe khách.",
+    regulationId: "gt-220"
+  },
+  {
+    question: "Hành khách gây mất trật tự trên xe có thể bị xử lý không?",
+    answer: "Hành khách vi phạm nội quy có thể bị từ chối vận chuyển hoặc xử lý theo quy định.",
+    regulationId: "gt-221"
+  },
+
+  {
+    question: "Doanh nghiệp vận tải có phải niêm yết giá vé không?",
+    answer: "Giá vé vận tải hành khách phải được niêm yết công khai.",
+    regulationId: "gt-222"
+  },
+  {
+    question: "Có được tự ý tăng giá vé vào dịp lễ tết không?",
+    answer: "Việc điều chỉnh giá vé phải thực hiện theo quy định và được chấp thuận.",
+    regulationId: "gt-223"
+  },
+  {
+    question: "Đơn vị vận tải có được bán vé vượt số chỗ không?",
+    answer: "Nghiêm cấm bán vé vượt quá số chỗ cho phép của phương tiện.",
+    regulationId: "gt-224"
+  },
+  {
+    question: "Xe khách chở quá số người bị xử lý thế nào?",
+    answer: "Xe chở quá số người quy định sẽ bị xử phạt theo pháp luật.",
+    regulationId: "gt-225"
+  },
+  {
+    question: "Ai chịu trách nhiệm khi xe khách gây tai nạn?",
+    answer: "Đơn vị vận tải và người lái xe chịu trách nhiệm theo mức độ vi phạm.",
+    regulationId: "gt-226"
+  },
+
+  {
+    question: "Có được chuyển nhượng giấy phép kinh doanh vận tải không?",
+    answer: "Giấy phép kinh doanh vận tải không được chuyển nhượng trái quy định.",
+    regulationId: "gt-227"
+  },
+  {
+    question: "Khi nào giấy phép kinh doanh vận tải bị thu hồi?",
+    answer: "Giấy phép bị thu hồi khi đơn vị vi phạm nghiêm trọng hoặc không còn đủ điều kiện.",
+    regulationId: "gt-228"
+  },
+  {
+    question: "Đơn vị vận tải có phải báo cáo hoạt động không?",
+    answer: "Đơn vị vận tải phải thực hiện chế độ báo cáo theo quy định.",
+    regulationId: "gt-229"
+  },
+  {
+    question: "Cơ quan nào quản lý hoạt động kinh doanh vận tải?",
+    answer: "Cơ quan quản lý giao thông vận tải chịu trách nhiệm quản lý hoạt động kinh doanh vận tải.",
+    regulationId: "gt-230"
+  },
+  {
+    question: "Nhà nước có khuyến khích ứng dụng công nghệ trong vận tải không?",
+    answer: "Luật khuyến khích ứng dụng công nghệ nhằm nâng cao hiệu quả và an toàn vận tải.",
+    regulationId: "gt-231"
+  },
+
+  {
+    question: "Kinh doanh vận tải không phép bị xử lý thế nào?",
+    answer: "Hoạt động kinh doanh vận tải không phép sẽ bị xử phạt theo quy định pháp luật.",
+    regulationId: "gt-232"
+  },
+  {
+    question: "Có được dùng xe cá nhân để kinh doanh vận tải không?",
+    answer: "Xe cá nhân chỉ được dùng kinh doanh vận tải khi đáp ứng điều kiện và được cấp phép.",
+    regulationId: "gt-233"
+  },
+  {
+    question: "Đơn vị vận tải có trách nhiệm đào tạo lái xe không?",
+    answer: "Đơn vị vận tải có trách nhiệm đào tạo, bồi dưỡng nghiệp vụ cho lái xe.",
+    regulationId: "gt-234"
+  },
+  {
+    question: "Có được cho thuê lại giấy phép kinh doanh vận tải không?",
+    answer: "Nghiêm cấm cho thuê, mượn giấy phép kinh doanh vận tải.",
+    regulationId: "gt-235"
+  },
+  {
+    question: "Hoạt động vận tải phải tuân thủ những nguyên tắc gì?",
+    answer: "Hoạt động vận tải phải bảo đảm an toàn, công bằng, minh bạch và đúng pháp luật.",
+    regulationId: "gt-236"
+  },
+  {
+    question: "Dịch vụ hỗ trợ vận tải đường bộ bao gồm những hoạt động nào?",
+    answer: "Dịch vụ hỗ trợ vận tải bao gồm cứu hộ, cứu nạn, bốc xếp, kho bãi, trạm dừng nghỉ và các dịch vụ phục vụ vận tải khác.",
+    regulationId: "gt-237"
+  },
+  {
+    question: "Kinh doanh dịch vụ hỗ trợ vận tải có cần đăng ký không?",
+    answer: "Tổ chức, cá nhân kinh doanh dịch vụ hỗ trợ vận tải phải đăng ký và đáp ứng điều kiện theo quy định.",
+    regulationId: "gt-238"
+  },
+  {
+    question: "Cứu hộ giao thông đường bộ là gì?",
+    answer: "Cứu hộ giao thông là hoạt động hỗ trợ phương tiện và người gặp sự cố hoặc tai nạn trên đường bộ.",
+    regulationId: "gt-239"
+  },
+  {
+    question: "Đơn vị cứu hộ giao thông có phải được cấp phép không?",
+    answer: "Đơn vị cứu hộ giao thông phải đáp ứng điều kiện và được cấp phép theo quy định pháp luật.",
+    regulationId: "gt-240"
+  },
+  {
+    question: "Xe cứu hộ giao thông có được ưu tiên khi tham gia giao thông không?",
+    answer: "Xe cứu hộ giao thông được hưởng quyền ưu tiên khi đang làm nhiệm vụ theo quy định.",
+    regulationId: "gt-241"
+  },
+
+  {
+    question: "Khi xe bị hỏng trên đường cao tốc thì gọi cứu hộ ở đâu?",
+    answer: "Người lái xe liên hệ đơn vị quản lý đường cao tốc hoặc số điện thoại cứu hộ được niêm yết.",
+    regulationId: "gt-242"
+  },
+  {
+    question: "Chi phí cứu hộ giao thông do ai chi trả?",
+    answer: "Chi phí cứu hộ do người sử dụng dịch vụ chi trả, trừ trường hợp pháp luật có quy định khác.",
+    regulationId: "gt-243"
+  },
+  {
+    question: "Có được tự ý kéo xe bị nạn trên cao tốc không?",
+    answer: "Không được tự ý kéo xe bị nạn nếu không bảo đảm an toàn và không được phép.",
+    regulationId: "gt-244"
+  },
+  {
+    question: "Cứu hộ giao thông có trách nhiệm bảo đảm an toàn hiện trường không?",
+    answer: "Đơn vị cứu hộ phải phối hợp bảo đảm an toàn hiện trường trong quá trình cứu hộ.",
+    regulationId: "gt-245"
+  },
+  {
+    question: "Khi tai nạn xảy ra, ai có trách nhiệm tổ chức cứu nạn?",
+    answer: "Cơ quan chức năng và đơn vị quản lý đường bộ có trách nhiệm tổ chức cứu nạn kịp thời.",
+    regulationId: "gt-246"
+  },
+
+  {
+    question: "Dịch vụ logistics đường bộ bao gồm những gì?",
+    answer: "Logistics đường bộ bao gồm vận chuyển, lưu kho, bốc xếp và phân phối hàng hóa.",
+    regulationId: "gt-247"
+  },
+  {
+    question: "Doanh nghiệp logistics có phải tuân thủ quy định an toàn giao thông không?",
+    answer: "Doanh nghiệp logistics phải tuân thủ đầy đủ quy định về an toàn giao thông đường bộ.",
+    regulationId: "gt-248"
+  },
+  {
+    question: "Kho bãi phục vụ vận tải phải đáp ứng điều kiện gì?",
+    answer: "Kho bãi phải bảo đảm an toàn, phòng cháy chữa cháy và kết nối giao thông phù hợp.",
+    regulationId: "gt-249"
+  },
+  {
+    question: "Có được xây kho bãi trong hành lang an toàn đường bộ không?",
+    answer: "Không được xây kho bãi trong hành lang an toàn đường bộ nếu không được phép.",
+    regulationId: "gt-250"
+  },
+  {
+    question: "Bốc xếp hàng hóa ven đường có bị cấm không?",
+    answer: "Bốc xếp hàng hóa gây cản trở giao thông hoặc mất an toàn là hành vi bị cấm.",
+    regulationId: "gt-251"
+  },
+
+  {
+    question: "Trạm dừng nghỉ đường bộ có vai trò gì?",
+    answer: "Trạm dừng nghỉ phục vụ nghỉ ngơi, tiếp nhiên liệu và các dịch vụ thiết yếu cho người tham gia giao thông.",
+    regulationId: "gt-252"
+  },
+  {
+    question: "Trạm dừng nghỉ có bắt buộc trên quốc lộ không?",
+    answer: "Việc bố trí trạm dừng nghỉ được thực hiện theo quy hoạch và nhu cầu giao thông.",
+    regulationId: "gt-253"
+  },
+  {
+    question: "Ai chịu trách nhiệm quản lý trạm dừng nghỉ?",
+    answer: "Đơn vị được giao quản lý hoặc nhà đầu tư chịu trách nhiệm quản lý trạm dừng nghỉ.",
+    regulationId: "gt-254"
+  },
+  {
+    question: "Trạm dừng nghỉ có được kinh doanh dịch vụ ăn uống không?",
+    answer: "Trạm dừng nghỉ được phép kinh doanh các dịch vụ phục vụ người tham gia giao thông.",
+    regulationId: "gt-255"
+  },
+  {
+    question: "Trạm dừng nghỉ có phải bảo đảm vệ sinh môi trường không?",
+    answer: "Trạm dừng nghỉ phải bảo đảm vệ sinh môi trường và an toàn thực phẩm.",
+    regulationId: "gt-256"
+  },
+
+  {
+    question: "Dịch vụ sửa chữa phương tiện ven đường có cần giấy phép không?",
+    answer: "Hoạt động sửa chữa phương tiện ven đường phải đáp ứng điều kiện và được phép theo quy định.",
+    regulationId: "gt-257"
+  },
+  {
+    question: "Có được rửa xe trên lòng đường không?",
+    answer: "Hành vi rửa xe trên lòng đường gây mất an toàn giao thông là hành vi bị cấm.",
+    regulationId: "gt-258"
+  },
+  {
+    question: "Bán hàng rong trên quốc lộ có bị cấm không?",
+    answer: "Bán hàng rong gây cản trở giao thông trên quốc lộ là hành vi bị nghiêm cấm.",
+    regulationId: "gt-259"
+  },
+  {
+    question: "Trạm dịch vụ ven đường có phải bảo đảm an toàn giao thông không?",
+    answer: "Trạm dịch vụ ven đường phải bảo đảm không gây cản trở và mất an toàn giao thông.",
+    regulationId: "gt-260"
+  },
+  {
+    question: "Có được dựng lều quán tạm thời trên hành lang đường bộ không?",
+    answer: "Không được dựng lều quán trái phép trong hành lang an toàn đường bộ.",
+    regulationId: "gt-261"
+  },
+
+  {
+    question: "Người tham gia giao thông có quyền yêu cầu hỗ trợ khi gặp sự cố không?",
+    answer: "Người tham gia giao thông có quyền yêu cầu hỗ trợ, cứu hộ khi gặp sự cố.",
+    regulationId: "gt-262"
+  },
+  {
+    question: "Có bắt buộc phải hỗ trợ người bị nạn giao thông không?",
+    answer: "Mọi người có trách nhiệm hỗ trợ, cứu giúp người bị nạn khi có điều kiện.",
+    regulationId: "gt-263"
+  },
+  {
+    question: "Người không cứu giúp người bị nạn có bị xử lý không?",
+    answer: "Hành vi không cứu giúp người bị nạn có thể bị xử lý theo quy định pháp luật.",
+    regulationId: "gt-264"
+  },
+  {
+    question: "Cơ quan nào chịu trách nhiệm điều phối cứu hộ giao thông?",
+    answer: "Cơ quan quản lý đường bộ và lực lượng chức năng chịu trách nhiệm điều phối cứu hộ.",
+    regulationId: "gt-265"
+  },
+  {
+    question: "Cứu hộ giao thông có được thu phí cao hơn quy định không?",
+    answer: "Việc thu phí cứu hộ phải đúng mức giá đã niêm yết và quy định.",
+    regulationId: "gt-266"
+  },
+
+  {
+    question: "Nhà nước có khuyến khích xã hội hóa dịch vụ hỗ trợ giao thông không?",
+    answer: "Nhà nước khuyến khích tổ chức, cá nhân tham gia cung cấp dịch vụ hỗ trợ giao thông.",
+    regulationId: "gt-267"
+  },
+  {
+    question: "Ứng dụng công nghệ có được dùng trong cứu hộ giao thông không?",
+    answer: "Luật khuyến khích ứng dụng công nghệ trong cứu hộ và hỗ trợ giao thông.",
+    regulationId: "gt-268"
+  },
+  {
+    question: "Dữ liệu cứu hộ giao thông có phải lưu trữ không?",
+    answer: "Dữ liệu hoạt động cứu hộ phải được lưu trữ phục vụ quản lý nhà nước.",
+    regulationId: "gt-269"
+  },
+  {
+    question: "Doanh nghiệp hỗ trợ vận tải có phải báo cáo hoạt động không?",
+    answer: "Doanh nghiệp phải thực hiện chế độ báo cáo theo quy định.",
+    regulationId: "gt-270"
+  },
+  {
+    question: "Cơ quan nào quản lý dịch vụ hỗ trợ vận tải?",
+    answer: "Cơ quan quản lý giao thông vận tải chịu trách nhiệm quản lý dịch vụ hỗ trợ vận tải.",
+    regulationId: "gt-271"
+  },
+
+  {
+    question: "Dịch vụ hỗ trợ vận tải không phép bị xử lý thế nào?",
+    answer: "Hoạt động không phép sẽ bị xử phạt theo quy định pháp luật.",
+    regulationId: "gt-272"
+  },
+  {
+    question: "Có được cho thuê giấy phép dịch vụ hỗ trợ vận tải không?",
+    answer: "Nghiêm cấm cho thuê, mượn giấy phép dịch vụ hỗ trợ vận tải.",
+    regulationId: "gt-273"
+  },
+  {
+    question: "Doanh nghiệp hỗ trợ vận tải có trách nhiệm đào tạo nhân viên không?",
+    answer: "Doanh nghiệp phải đào tạo nhân viên bảo đảm an toàn và nghiệp vụ.",
+    regulationId: "gt-274"
+  },
+  {
+    question: "Nhân viên cứu hộ giao thông có phải mang đồng phục không?",
+    answer: "Nhân viên cứu hộ phải mang trang phục nhận diện theo quy định.",
+    regulationId: "gt-275"
+  },
+  {
+    question: "Xe cứu hộ có phải gắn thiết bị cảnh báo không?",
+    answer: "Xe cứu hộ phải gắn thiết bị cảnh báo để bảo đảm an toàn.",
+    regulationId: "gt-276"
+  },
+
+  {
+    question: "Người dân có quyền phản ánh về dịch vụ cứu hộ không?",
+    answer: "Người dân có quyền phản ánh, khiếu nại về chất lượng dịch vụ cứu hộ.",
+    regulationId: "gt-277"
+  },
+  {
+    question: "Cơ quan quản lý có trách nhiệm kiểm tra dịch vụ hỗ trợ vận tải không?",
+    answer: "Cơ quan quản lý có trách nhiệm kiểm tra, giám sát hoạt động dịch vụ hỗ trợ vận tải.",
+    regulationId: "gt-278"
+  },
+  {
+    question: "Có được tạm dừng hoạt động dịch vụ hỗ trợ vận tải không?",
+    answer: "Hoạt động dịch vụ có thể bị tạm dừng nếu vi phạm quy định.",
+    regulationId: "gt-279"
+  },
+  {
+    question: "Khi nào dịch vụ hỗ trợ vận tải bị thu hồi giấy phép?",
+    answer: "Giấy phép bị thu hồi khi vi phạm nghiêm trọng hoặc không còn đủ điều kiện.",
+    regulationId: "gt-280"
+  },
+  {
+    question: "Dịch vụ hỗ trợ vận tải phải tuân thủ nguyên tắc gì?",
+    answer: "Hoạt động phải bảo đảm an toàn, minh bạch và đúng pháp luật.",
+    regulationId: "gt-281"
+  },
+
+  {
+    question: "Có được huy động dịch vụ cứu hộ tư nhân khi có tai nạn lớn không?",
+    answer: "Trong trường hợp cần thiết, có thể huy động dịch vụ cứu hộ tư nhân theo chỉ đạo.",
+    regulationId: "gt-282"
+  },
+  {
+    question: "Cứu hộ giao thông có phải phối hợp với công an không?",
+    answer: "Hoạt động cứu hộ phải phối hợp với lực lượng công an và cơ quan chức năng.",
+    regulationId: "gt-283"
+  },
+  {
+    question: "Hoạt động cứu nạn giao thông có được ưu tiên nguồn lực không?",
+    answer: "Cứu nạn giao thông được ưu tiên huy động nguồn lực khi cần thiết.",
+    regulationId: "gt-284"
+  },
+  {
+    question: "Nhà nước có hỗ trợ phát triển dịch vụ cứu hộ giao thông không?",
+    answer: "Nhà nước khuyến khích và hỗ trợ phát triển dịch vụ cứu hộ giao thông.",
+    regulationId: "gt-285"
+  },
+  {
+    question: "Dịch vụ hỗ trợ vận tải có vai trò gì đối với an toàn giao thông?",
+    answer: "Dịch vụ hỗ trợ góp phần bảo đảm giao thông thông suốt và an toàn.",
+    regulationId: "gt-286"
+  },
+  {
+    question: "Quản lý nhà nước về hoạt động đường bộ được thực hiện theo nguyên tắc nào?",
+    answer: "Quản lý nhà nước về hoạt động đường bộ được thực hiện thống nhất, phân công rõ trách nhiệm giữa các cơ quan trung ương và địa phương.",
+    regulationId: "gt-287"
+  },
+  {
+    question: "Chính phủ có vai trò gì trong quản lý hoạt động đường bộ?",
+    answer: "Chính phủ thống nhất quản lý nhà nước về hoạt động đường bộ trên phạm vi cả nước.",
+    regulationId: "gt-288"
+  },
+  {
+    question: "Chính phủ được giao những nhiệm vụ cụ thể nào theo Luật Đường bộ?",
+    answer: "Chính phủ ban hành chính sách, quy định chi tiết và tổ chức thực hiện Luật Đường bộ.",
+    regulationId: "gt-289"
+  },
+  {
+    question: "Bộ Giao thông vận tải chịu trách nhiệm gì trong quản lý đường bộ?",
+    answer: "Bộ Giao thông vận tải chịu trách nhiệm quản lý hệ thống quốc lộ, quy hoạch, tiêu chuẩn kỹ thuật và tổ chức giao thông.",
+    regulationId: "gt-290"
+  },
+  {
+    question: "Bộ Công an phối hợp quản lý hoạt động đường bộ như thế nào?",
+    answer: "Bộ Công an phối hợp bảo đảm trật tự an toàn giao thông, tuần tra, kiểm soát và xử lý vi phạm.",
+    regulationId: "gt-291"
+  },
+
+  {
+    question: "Bộ Tài chính có trách nhiệm gì liên quan đến đường bộ?",
+    answer: "Bộ Tài chính quản lý tài chính, phí và nguồn vốn phục vụ hoạt động đường bộ.",
+    regulationId: "gt-292"
+  },
+  {
+    question: "Bộ Xây dựng tham gia quản lý đường bộ ở nội dung nào?",
+    answer: "Bộ Xây dựng phối hợp về quy hoạch đô thị, kết cấu hạ tầng và tiêu chuẩn xây dựng liên quan đến đường bộ.",
+    regulationId: "gt-293"
+  },
+  {
+    question: "Các bộ, ngành khác có trách nhiệm gì theo Luật Đường bộ?",
+    answer: "Các bộ, ngành khác phối hợp thực hiện nhiệm vụ theo chức năng, quyền hạn được giao.",
+    regulationId: "gt-294"
+  },
+  {
+    question: "Ủy ban nhân dân cấp tỉnh có trách nhiệm gì về đường bộ?",
+    answer: "UBND cấp tỉnh quản lý hệ thống đường địa phương, tổ chức giao thông và bảo vệ hành lang an toàn.",
+    regulationId: "gt-295"
+  },
+  {
+    question: "UBND cấp huyện và cấp xã tham gia quản lý đường bộ như thế nào?",
+    answer: "UBND cấp huyện, xã quản lý đường trên địa bàn, tuyên truyền pháp luật và xử lý vi phạm.",
+    regulationId: "gt-296"
+  },
+
+  {
+    question: "Thanh tra đường bộ có chức năng gì?",
+    answer: "Thanh tra đường bộ có chức năng thanh tra, kiểm tra việc chấp hành pháp luật về đường bộ.",
+    regulationId: "gt-297"
+  },
+  {
+    question: "Thanh tra đường bộ có quyền xử phạt vi phạm không?",
+    answer: "Thanh tra đường bộ có quyền lập biên bản và xử phạt vi phạm theo thẩm quyền.",
+    regulationId: "gt-298"
+  },
+  {
+    question: "Cảnh sát giao thông có quyền hạn gì theo Luật Đường bộ?",
+    answer: "Cảnh sát giao thông được quyền dừng phương tiện, kiểm tra và xử lý vi phạm trật tự an toàn giao thông.",
+    regulationId: "gt-299"
+  },
+  {
+    question: "Việc phối hợp giữa các lực lượng quản lý giao thông được thực hiện ra sao?",
+    answer: "Các lực lượng phối hợp theo quy chế, bảo đảm hiệu quả quản lý và an toàn giao thông.",
+    regulationId: "gt-300"
+  },
+  {
+    question: "Tổ chức, cá nhân vi phạm Luật Đường bộ bị xử lý như thế nào?",
+    answer: "Tùy tính chất, mức độ vi phạm sẽ bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.",
+    regulationId: "gt-301"
+  },
+
+  {
+    question: "Hành vi vi phạm gây thiệt hại công trình đường bộ xử lý ra sao?",
+    answer: "Phải bồi thường thiệt hại và chịu trách nhiệm theo quy định pháp luật.",
+    regulationId: "gt-302"
+  },
+  {
+    question: "Người dân có quyền giám sát hoạt động quản lý đường bộ không?",
+    answer: "Người dân có quyền giám sát, phản ánh và kiến nghị về hoạt động đường bộ.",
+    regulationId: "gt-303"
+  },
+  {
+    question: "Việc tiếp nhận phản ánh, kiến nghị về giao thông do ai thực hiện?",
+    answer: "Cơ quan quản lý đường bộ và chính quyền địa phương có trách nhiệm tiếp nhận và xử lý.",
+    regulationId: "gt-304"
+  },
+  {
+    question: "Cán bộ quản lý đường bộ vi phạm bị xử lý thế nào?",
+    answer: "Cán bộ vi phạm bị xử lý kỷ luật, xử phạt hoặc truy cứu trách nhiệm theo quy định.",
+    regulationId: "gt-305"
+  },
+  {
+    question: "Luật có quy định về khen thưởng trong hoạt động đường bộ không?",
+    answer: "Tổ chức, cá nhân có thành tích trong bảo đảm an toàn giao thông được khen thưởng.",
+    regulationId: "gt-306"
+  },
+
+  {
+    question: "Hoạt động tuyên truyền pháp luật đường bộ được thực hiện thế nào?",
+    answer: "Cơ quan nhà nước phối hợp tuyên truyền, phổ biến pháp luật đến người dân.",
+    regulationId: "gt-307"
+  },
+  {
+    question: "Nhà nước có khuyến khích nghiên cứu khoa học về giao thông không?",
+    answer: "Nhà nước khuyến khích nghiên cứu, ứng dụng khoa học công nghệ trong lĩnh vực đường bộ.",
+    regulationId: "gt-308"
+  },
+  {
+    question: "Dữ liệu quản lý đường bộ được sử dụng vào mục đích gì?",
+    answer: "Dữ liệu phục vụ quản lý nhà nước, hoạch định chính sách và bảo đảm an toàn giao thông.",
+    regulationId: "gt-309"
+  },
+  {
+    question: "Việc chia sẻ dữ liệu đường bộ giữa các cơ quan được thực hiện ra sao?",
+    answer: "Việc chia sẻ dữ liệu được thực hiện theo quy định về quản lý và bảo mật thông tin.",
+    regulationId: "gt-310"
+  },
+  {
+    question: "Luật Đường bộ có áp dụng đối với người nước ngoài không?",
+    answer: "Luật áp dụng đối với mọi tổ chức, cá nhân tham gia hoạt động đường bộ tại Việt Nam.",
+    regulationId: "gt-311"
+  },
+
+  {
+    question: "Trường hợp điều ước quốc tế khác luật trong nước thì áp dụng thế nào?",
+    answer: "Áp dụng điều ước quốc tế mà Việt Nam là thành viên nếu có quy định khác.",
+    regulationId: "gt-312"
+  },
+  {
+    question: "Luật Đường bộ 2024 chính thức có hiệu lực từ khi nào?",
+    answer: "Luật có hiệu lực thi hành từ ngày 01/01/2025.",
+    regulationId: "gt-313"
+  },
+  {
+    question: "Những quy định nào được áp dụng sớm trước ngày 01/01/2025?",
+    answer: "Một số quy định về phí, thu phí điện tử và tổ chức giao thông được áp dụng sớm theo nghị quyết.",
+    regulationId: "gt-314"
+  },
+  {
+    question: "Các văn bản pháp luật cũ trái với Luật Đường bộ 2024 xử lý thế nào?",
+    answer: "Các quy định trái luật bị bãi bỏ hoặc sửa đổi cho phù hợp.",
+    regulationId: "gt-315"
+  },
+  {
+    question: "Dự án đường bộ đang triển khai trước luật mới có bị dừng không?",
+    answer: "Dự án đang triển khai được tiếp tục thực hiện theo quy định chuyển tiếp.",
+    regulationId: "gt-316"
+  },
+
+  {
+    question: "Giấy phép kinh doanh vận tải cấp trước luật mới có còn hiệu lực không?",
+    answer: "Giấy phép còn thời hạn được tiếp tục sử dụng đến khi hết hạn.",
+    regulationId: "gt-317"
+  },
+  {
+    question: "Khi nào phải điều chỉnh giấy phép theo Luật Đường bộ 2024?",
+    answer: "Phải điều chỉnh khi hết hạn hoặc khi có thay đổi theo quy định mới.",
+    regulationId: "gt-318"
+  },
+  {
+    question: "Các tiêu chuẩn kỹ thuật cũ có được tiếp tục áp dụng không?",
+    answer: "Được tiếp tục áp dụng cho đến khi có tiêu chuẩn mới thay thế.",
+    regulationId: "gt-319"
+  },
+  {
+    question: "Trách nhiệm tổ chức thi hành Luật Đường bộ thuộc về ai?",
+    answer: "Chính phủ và các cơ quan nhà nước có trách nhiệm tổ chức thi hành.",
+    regulationId: "gt-320"
+  },
+  {
+    question: "Chính quyền địa phương phải làm gì khi luật có hiệu lực?",
+    answer: "Phải rà soát, điều chỉnh quy hoạch và tổ chức thực hiện trên địa bàn.",
+    regulationId: "gt-321"
+  },
+
+  {
+    question: "Luật có quy định về đánh giá việc thi hành không?",
+    answer: "Có quy định về theo dõi, đánh giá việc thi hành Luật Đường bộ.",
+    regulationId: "gt-322"
+  },
+  {
+    question: "Cơ quan nào chịu trách nhiệm tổng kết thi hành Luật?",
+    answer: "Bộ Giao thông vận tải chủ trì tổng kết, báo cáo Chính phủ.",
+    regulationId: "gt-323"
+  },
+  {
+    question: "Người dân có trách nhiệm gì khi Luật Đường bộ có hiệu lực?",
+    answer: "Người dân phải chấp hành đầy đủ các quy định của Luật.",
+    regulationId: "gt-324"
+  },
+  {
+    question: "Doanh nghiệp vận tải phải chuẩn bị gì khi luật mới áp dụng?",
+    answer: "Doanh nghiệp phải rà soát điều kiện kinh doanh và đào tạo nhân sự.",
+    regulationId: "gt-325"
+  },
+  {
+    question: "Luật Đường bộ 2024 có thay thế hoàn toàn luật cũ không?",
+    answer: "Luật mới thay thế các quy định trước đây về cùng nội dung.",
+    regulationId: "gt-326"
+  },
+
+  {
+    question: "Việc sửa đổi, bổ sung Luật Đường bộ được thực hiện như thế nào?",
+    answer: "Việc sửa đổi, bổ sung được thực hiện theo trình tự lập pháp.",
+    regulationId: "gt-327"
+  },
+  {
+    question: "Quốc hội có vai trò gì trong giám sát thi hành Luật Đường bộ?",
+    answer: "Quốc hội giám sát tối cao việc thi hành Luật Đường bộ.",
+    regulationId: "gt-328"
+  },
+  {
+    question: "Hội đồng nhân dân các cấp có nhiệm vụ gì liên quan đến đường bộ?",
+    answer: "HĐND giám sát việc quản lý và sử dụng hệ thống đường bộ tại địa phương.",
+    regulationId: "gt-329"
+  },
+  {
+    question: "Mặt trận Tổ quốc có vai trò gì trong lĩnh vực giao thông?",
+    answer: "Mặt trận tham gia giám sát và vận động người dân chấp hành pháp luật.",
+    regulationId: "gt-330"
+  },
+  {
+    question: "Tổ chức xã hội có được tham gia bảo đảm an toàn giao thông không?",
+    answer: "Các tổ chức xã hội được khuyến khích tham gia bảo đảm an toàn giao thông.",
+    regulationId: "gt-331"
+  },
+
+  {
+    question: "Luật có quy định về trách nhiệm của người đứng đầu không?",
+    answer: "Người đứng đầu cơ quan chịu trách nhiệm nếu để xảy ra vi phạm nghiêm trọng.",
+    regulationId: "gt-332"
+  },
+  {
+    question: "Cơ chế kiểm tra, giám sát việc thực thi luật được quy định ra sao?",
+    answer: "Có cơ chế thanh tra, kiểm tra và giám sát thường xuyên.",
+    regulationId: "gt-333"
+  },
+  {
+    question: "Luật Đường bộ có quy định về trách nhiệm giải trình không?",
+    answer: "Cơ quan quản lý phải thực hiện trách nhiệm giải trình theo quy định.",
+    regulationId: "gt-334"
+  },
+  {
+    question: "Luật có khuyến khích người dân tham gia góp ý chính sách không?",
+    answer: "Luật khuyến khích người dân tham gia góp ý và phản biện chính sách giao thông.",
+    regulationId: "gt-335"
+  },
+  {
+    question: "Ý nghĩa tổng thể của Luật Đường bộ 2024 là gì?",
+    answer: "Luật tạo khung pháp lý đồng bộ, hiện đại nhằm bảo đảm an toàn và phát triển bền vững giao thông đường bộ.",
+    regulationId: "gt-336"
+  },
   ] as QAData[]
 };
